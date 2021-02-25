@@ -55,7 +55,7 @@
 
 ### 3.同步Fork后的代码
 
-#### 手动同步
+#### 手动同步 
 
 [手动同步 https://blog.blueskyclouds.com/jsfx/58.html](https://blog.blueskyclouds.com/jsfx/58.html)
 
@@ -81,7 +81,7 @@
 1. 在github保留太多日志不太好，首先可以去 `Settings` - `Actions` - `Artifact and log retention` 设置自己想要的保存天数。
 2. 在Actions界面手动运行Delete old workflow runs，输入Number of days和Number of runs的数字，运行完毕后即只保留你设置的天数和项目剩余数。
 
-
+ 
 ## 各版本使用教程  
 > [**CnUnicom.sh**](https://github.com/mixool/HiCnUnicom/blob/master/tutorial/CnUnicom_sh_readme.md)  
 > [**UnicomGetCoin.py**](https://github.com/mixool/HiCnUnicom/blob/master/tutorial/UnicomAutoGetCoin_py_readme.md)  
